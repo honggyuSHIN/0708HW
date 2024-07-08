@@ -179,3 +179,8 @@ migrations/
 #.idea/
 
 # End of https://www.toptal.com/developers/gitignore/api/django
+
+
+
+cert/*
+init-letsencrypt.sh
