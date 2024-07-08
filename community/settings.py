@@ -44,7 +44,7 @@ AUTH_USER_MODEL='member.CustomUser'
 # ALLOWED_HOSTS = ['인스턴스의 IP주소', '도메인', '127.0.0.1']
 
 # 예시
-ALLOWED_HOSTS = ['3.143.180.166', 'yellowtaxi.store', '127.0.0.1']
+ALLOWED_HOSTS = ['3.133.16.196', 'yellowtaxi.store', '127.0.0.1']
 
 
 
